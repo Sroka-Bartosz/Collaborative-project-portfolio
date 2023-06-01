@@ -17,6 +17,7 @@ with links to their respective repositories.
 
 
 2. **RevBook-project-book-review-database**
+
    The project was carried out to learn the creation and management of PostgreSQL databases using ORM queries with
    SQLAlchemy. It features a web page for managing book review submissions tailored to the project's specific database
    architecture.
@@ -32,5 +33,4 @@ with links to their respective repositories.
    observation carried forward (LOCF), hot-deck imputation, using kNN algorithm, MICE, linear regression, and Bayesian
    imputations. For selected methods, I analyzed their effectiveness based on the NRMSE error. As a result of my work, a
    module that enabled data imputation in the BI system was created.
-
    <b> Unfortunately, I cannot share the engineering project due to legally protected confidentiality </b>
